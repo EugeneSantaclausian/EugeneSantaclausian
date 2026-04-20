@@ -50,11 +50,9 @@ Currently a **Software Engineer at iPay Africa**, where I help simplify payments
 | Role | Company | Focus |
 |------|---------|-------|
 | 🔷 **Software Engineer** | **iPay Africa** | FinTech — payments, POS, loyalty & inventory for 5,000+ businesses |
-| 🔷 **Product Manager** | **Ssessa** | Product strategy & development |
+| 🔷 **Technical Product Manager** | **Ssessa** | Product strategy & development |
 | 🔷 **Software Developer** | **BemdDops** | Full-stack web & mobile solutions |
 | 🔷 **Developer** | **i5digitalabs** | Web development |
-| 🔷 **Tech Community** | **iSpace Foundation** | Developer community & mentorship |
-| 🔷 **Intern/Contributor** | **Cheeky Monkey Club** | Frontend & mobile |
 
 🎓 **BA, Political Science** — University of Ghana · **WASSCE** — Adisadel College
 
@@ -86,43 +84,10 @@ Currently a **Software Engineer at iPay Africa**, where I help simplify payments
 
 ---
 
-### 🎙️ [CFM Live](https://cfm-live.netlify.app/)
+### 🎙️ [CFM Live](https://cfmlive.netlify.app/)
 > Live streaming & podcast platform for Central Fellowship Ministries
 - Real-time audio/video streaming integration
 - **Stack:** Next.js · TypeScript · Netlify
-
----
-
-### 🎫 [Mayfare Tickets](https://github.com/EugeneSantaclausian/mayfaretickets)
-> Premium event ticketing powered by cryptocurrency
-- Blockchain-integrated ticket generation & payments
-- **Stack:** Next.js · TypeScript · Web3 · Ethereum
-
----
-
-### 🎓 [Sidu-Ed / Preprange](https://github.com/EugeneSantaclausian/Sidu-Ed)
-> AI-powered Education Management Application
-- Institutional management, AI features, student workflows
-- **Stack:** React · MongoDB · Node.js
-
----
-
-### 🌾 [Digital Farmers App](https://github.com/EugeneSantaclausian/DigitalFarmersApp)
-> Mobile marketplace bridging farmers, retailers & consumers
-- **Stack:** React Native · JavaScript
-
----
-
-### ⛓️ [CrowdCoin](https://github.com/EugeneSantaclausian/CrowdCoin)
-> Decentralized crowdfunding on the Ethereum blockchain
-- Smart contract-powered campaign creation & funding
-- **Stack:** Solidity · Web3.js · JavaScript
-
----
-
-### 🛍️ [DMToOrder](https://github.com/EugeneSantaclausian/DMToOrder)
-> Platform to help social-media vendors streamline orders
-- **Stack:** TypeScript · React · React Native
 
 ---
 
