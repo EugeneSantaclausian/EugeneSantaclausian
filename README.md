@@ -1,17 +1,5 @@
 <div align="center">
 
-<!-- Animated Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Eugene%20Dumoga&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Software%20Developer%20%7C%20React%20Native%20%26%20React%20%7C%20FinTech%20%26%20Web3&descAlignY=58&descSize=18&descColor=a78bfa&animation=fadeIn" />
-
-<!-- Profile Views + Badges -->
-<p>
-  <img src="https://komarev.com/ghpvc/?username=EugeneSantaclausian&color=7c3aed&style=flat-square&label=PROFILE+VIEWS" alt="profile views" />
-  <img src="https://img.shields.io/badge/Based%20in-Accra%2C%20Ghana%20🇬🇭-7c3aed?style=flat-square" alt="location" />
-  <img src="https://img.shields.io/badge/Open%20To-Collaborations-22c55e?style=flat-square" alt="open to work" />
-</p>
-
-</div>
-
 ---
 
 ## 👋 About Me
