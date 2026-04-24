@@ -39,11 +39,9 @@
 | Role | Company | Focus |
 |------|---------|-------|
 | 🔷 **Software Engineer** | **iPay Africa** | FinTech — payments, POS, loyalty & inventory for 5,000+ businesses |
-| 🔷 **Technical Product Manager** | **Ssessa** | Product strategy & development |
-| 🔷 **Software Developer** | **BemdDops** | Full-stack web & mobile solutions |
+| 🔷 **Technical Product Manager** | **SSESSA** | Product strategy & development |
+| 🔷 **Software Developer** | **SSESSA** | Full-stack web & mobile solutions |
 | 🔷 **Developer** | **i5digitalabs** | Web development |
-
-🎓 **BA, Political Science** — University of Ghana · **WASSCE** — Adisadel College
 
 ---
 
@@ -71,12 +69,6 @@
 - Clean, professional enterprise-grade web presence
 - **Stack:** Next.js · TypeScript · Responsive CSS
 
----
-
-### 🎙️ [CFM Live](https://cfmlive.netlify.app/)
-> Live streaming & podcast platform for Central Fellowship Ministries
-- Real-time audio/video streaming integration
-- **Stack:** Next.js · TypeScript · Netlify
 
 ---
 
