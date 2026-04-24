@@ -2,17 +2,6 @@
 
 ---
 
-## 👋 About Me
-
-I'm a **software developer** from Accra, Ghana, passionate about building practical, scalable solutions that solve real problems across Africa and beyond. From FinTech POS systems and mobile payment apps, to Web3 platforms and enterprise trade websites — I bring full-stack depth and mobile-first thinking to every project.
-
-Currently a **Software Engineer at iPay Africa**, where I help simplify payments for over 5,000 businesses across Ghana.
-
-> *"Experienced software engineer... very passionate mobile and web app developer... great team player and a good communicator."*
-> — **Colleague recommendation on LinkedIn**
-
----
-
 ## 🛠️ Tech Stack
 
 ### 📱 Mobile
