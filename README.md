@@ -105,7 +105,7 @@
 
 ---
 
-## 📫 Let's Connect
+## 📫 Where to find me
 
 <div align="center">
 
