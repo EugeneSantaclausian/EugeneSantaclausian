@@ -34,17 +34,6 @@
 
 ---
 
-## 💼 Work Experience
-
-| Role | Company | Focus |
-|------|---------|-------|
-| 🔷 **Software Engineer** | **iPay Africa** | FinTech — payments, POS, loyalty & inventory for 5,000+ businesses |
-| 🔷 **Technical Product Manager** | **SSESSA** | Product strategy & development |
-| 🔷 **Software Developer** | **SSESSA** | Full-stack web & mobile solutions |
-| 🔷 **Developer** | **i5digitalabs** | Web development |
-
----
-
 ## 🚀 Featured Projects
 
 ### 💳 [DigiStore Africa — POS System](https://pos.digistoreafrica.com/)
